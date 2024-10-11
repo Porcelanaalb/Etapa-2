@@ -34,7 +34,7 @@ A máquina permite emitir e identificar tickets de um estacionamento, com ela é
 
 1. Selecionar quantidade de vagas
 2. Emitir ticket
-3. Pagarticket por numeração
+3. Pagar ticket por numeração
 4. Ver saldo da máquina
 5. Finalizar programa.
 

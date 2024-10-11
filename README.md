@@ -1,7 +1,7 @@
 # projeto-final-etapa-2
 # Projeto Final - Etapa 2 do InCode
 
-Este repositório contém o projeto final da Etapa 2 do InCode, que inclui duas aplicações desenvolvidas em Java:
+Este repositório contém o projeto final da Etapa 2 do InCode, que inclui uma aplicação desenvolvida em Java:
 
 1. **Máquina de tickets de um estacionamento**
 
@@ -15,7 +15,7 @@ Este repositório contém o projeto final da Etapa 2 do InCode, que inclui duas 
 
 ## Descrição do Projeto
 
-Este projeto é composto por duas aplicações simples, mas funcionais, desenvolvidas como parte do aprendizado da segunda etapa  do curso InCode.
+Este projeto é composto por uma aplicação simples, mas funcional, desenvolvida como parte do aprendizado da segunda etapa  do curso InCode.
 
 ### Máquina de tickets
 
